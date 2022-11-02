@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../ds_ml_andrejuan/.idea/ds_ml_andrejuan.iml" filepath="$PROJECT_DIR$/../../ds_ml_andrejuan/.idea/ds_ml_andrejuan.iml" />
+      <module fileurl="file://D:/Lets_Code/Módulo_8_Estatística_II/modulo_8/.idea/modulo_8.iml" filepath="D:/Lets_Code/Módulo_8_Estatística_II/modulo_8/.idea/modulo_8.iml" />
+      <module fileurl="file://D:/Lets_Code/Módulo_9_Machine_Learning_I/modulo_9/.idea/modulo_9.iml" filepath="D:/Lets_Code/Módulo_9_Machine_Learning_I/modulo_9/.idea/modulo_9.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/notebooks.iml" filepath="$PROJECT_DIR$/.idea/notebooks.iml" />
     </modules>
   </component>
